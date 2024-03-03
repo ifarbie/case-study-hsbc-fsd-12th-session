@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+body {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: "lato", sans-serif;
+}
+
+button {
+    height: 66px;
+    width: 216px;
+}
+
+button:hover {
+    background-color: lightblue;
+}
